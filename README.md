@@ -28,8 +28,8 @@ Streaming recurrent models enable efficient 3D reconstruction by maintaining per
 
 1. Clone TTSA3R.
 ```bash
-git clone https://github.com/TTSA3R/TTSA3R.git
-cd TTSA3R
+https://github.com/anonus2357/ttsa3r.git
+cd ttsa3r
 ```
 
 2. Create the environment.
