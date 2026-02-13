@@ -55,7 +55,7 @@ cd ../../../../
 
 ### Download Checkpoints
 
-We adopt the pretrained checkpoints provided by CUT3R on Google Drive:
+We adopt the pretrained checkpoints provided by CUT3R on Google Drive.
 To download the weights, run the following commands:
 ```bash
 cd src
