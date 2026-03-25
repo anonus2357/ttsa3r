@@ -22,7 +22,7 @@ Streaming recurrent models enable efficient 3D reconstruction by maintaining per
   - [Datasets](#datasets-1)
   - [Evaluation Scripts](#evaluation-scripts)
 - [Acknowledgements](#acknowledgements)
-- [Citation](#citation)
+<!-- - [Citation](#citation) -->
 
 ## Getting Started
 
