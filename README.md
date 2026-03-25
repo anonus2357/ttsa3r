@@ -98,3 +98,15 @@ data/
 
 ### Evaluation Scripts
 Please refer to the [eval.md](docs/eval.md) for more details.
+
+## Acknowledgements
+Our code is based on the following fantastic repositories:
+
+- [DUSt3R](https://github.com/naver/dust3r)
+- [MonST3R](https://github.com/Junyi42/monst3r.git)
+- [Spann3R](https://github.com/HengyiWang/spann3r.git)
+- [CUT3R](https://github.com/CUT3R/CUT3R.git)
+- [TTT3R](https://github.com/Inception3D/TTT3R.git)
+- [Viser](https://github.com/nerfstudio-project/viser)
+
+So many thanks to the authors for releasing their code.
